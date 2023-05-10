@@ -1,6 +1,5 @@
-/// <reference types="cypress" />
 
-context('Assertions', () => {
+context('Shopcart', () => {
   beforeEach(() => {
     cy.visit('/')
   })
